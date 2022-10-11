@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Setting up Active Directory and Adding Users Practice</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/koma29/ActiveDirectoryLab)
 
 <h2>📄 Certifications</h2>
 
