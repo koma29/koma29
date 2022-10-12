@@ -12,7 +12,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Active Directory Home Lab Walkthrough](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Create Random Users in Active Directory with PowerShell](https://youtu.be/lWZhuyryTHo)
 - [How to Install a Virtual Machine 2022 (Kali, Ubuntu, Windows)](https://youtu.be/aM88La-g75Q)
 - [How to install a Windows Server in a Virtual Machine 2022](https://youtu.be/-vjl7EAxtiU)
 
@@ -25,7 +25,7 @@
 [linkedin]: https://www.linkedin.com/in/codywademarshall/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**koma29/koma29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
