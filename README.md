@@ -1,9 +1,9 @@
 <h1>Hi, I'm Cody!</h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Setting up Active Directory and Adding Users Practice</b>
-  - [Active Directory Home Lab](https://github.com/koma29/ActiveDirectoryLab)
+- <b>PowerShell</b>
+  - [Create Randomly Generated User in Active Directory](https://github.com/koma29/AD_PS_Create_Random_User)
 
 <h2>📄 Certifications</h2>
 
