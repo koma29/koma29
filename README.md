@@ -13,6 +13,7 @@
 <h2>📺 YouTube Videos</h2>
 
 - [Create Random Users in Active Directory with PowerShell](https://youtu.be/lWZhuyryTHo)
+- [My Linux Server Home Lab (LAMP Stack, MySQL, RDP)](https://youtu.be/1X_3NjXfegg)
 - [How to Install a Virtual Machine 2022 (Kali, Ubuntu, Windows)](https://youtu.be/aM88La-g75Q)
 - [How to install a Windows Server in a Virtual Machine 2022](https://youtu.be/-vjl7EAxtiU)
 
